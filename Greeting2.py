@@ -1,2 +1,2 @@
-print("Namaste Python, I am Second")
+print("Namaste Python, My name is Second")
 
